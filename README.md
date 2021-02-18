@@ -1,6 +1,6 @@
 # modelbox
 
-![box](images/box.jpg)
+![box](images/icon.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
