@@ -4,7 +4,7 @@
 
 ![box](images/icon.PNG)
 
-`modelbox` is a (very WIP) high-level package for quickly using machine learning models when you don't want or need to spend a lot of time building them. Basically, we're putting some models in a box.
+`modelbox` is a (very WIP) high-level package for quickly _using_ machine learning models when you don't want or need to spend a lot of time _building_ them. Basically, we're putting some models in a box.
 
 ## Setup
 
